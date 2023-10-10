@@ -204,7 +204,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Your Name - Rahul (Ark) <!-- [@your_twitter](https://twitter.com/your_username) - email@example.com
 
 Project Link: [https://github.com/Comic-Racoon/Eisenhower-Task-Organizer](https://github.com/Comic-Racoon/Eisenhower-Task-Organizer)
 
@@ -226,7 +226,7 @@ Use this space to list resources you find helpful and would like to give credit 
 * [Font Awesome](https://fontawesome.com)
 * [React Icons](https://react-icons.github.io/react-icons/search) -->
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 
 
