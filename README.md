@@ -138,8 +138,7 @@ _Below is an example of how you can instruct your audience on installing and set
    ```
 3. Start the project
    ```sh
-   npm run build
-   npm start
+   npm run dev
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
